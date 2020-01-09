@@ -9,9 +9,9 @@ Any standard C compiler will do. E.g.:
 
 # Usage:
 
-    make_hilbert --number N --output XYZ
+    make_hilbert --number <N> --output <OUTPUTFILE>
 
-where N is a positive integer.
+where N is a positive integer and OUTPUTFILE is the name of the output file
 
 # Generating polygonal data
 
